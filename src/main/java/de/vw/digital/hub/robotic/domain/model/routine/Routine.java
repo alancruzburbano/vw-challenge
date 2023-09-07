@@ -1,7 +1,7 @@
 package de.vw.digital.hub.robotic.domain.model.routine;
 
-import de.vw.digital.hub.robotic.domain.model.robot.RoutineCommand;
 import de.vw.digital.hub.robotic.domain.model.robot.RobotR2D2;
+import de.vw.digital.hub.robotic.domain.model.robot.RoutineCommand;
 import de.vw.digital.hub.robotic.domain.model.workspace.Workspace;
 import de.vw.digital.hub.robotic.infrastructure.ports.incoming.InputReader;
 import java.util.List;
